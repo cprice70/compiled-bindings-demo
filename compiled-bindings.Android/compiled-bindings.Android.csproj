@@ -91,9 +91,9 @@
     <Folder Include="Resources\drawable-xxxhdpi\" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\compiled_bindings\compiled_bindings.csproj">
-      <Project>{DB17EF18-B955-4EAB-BC5D-D21B4F0D5338}</Project>
-      <Name>compiled_bindings</Name>
+    <ProjectReference Include="..\compiled-bindings\compiled-bindings.csproj">
+      <Project>{9834319C-6259-4A1F-B42F-4F851721C20F}</Project>
+      <Name>compiled-bindings</Name>
     </ProjectReference>
   </ItemGroup>
  <Import Project="$(MSBuildExtensionsPath)\Xamarin\Android\Xamarin.Android.CSharp.targets" />
